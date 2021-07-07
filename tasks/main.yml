@@ -1,2 +1,6 @@
 ---
 # tasks file for ansible-role-2
+
+- name: Importation du rôle ansible-role-test
+  import_role:
+    name: ansible-role-test
