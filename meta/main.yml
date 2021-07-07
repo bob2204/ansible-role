@@ -53,6 +53,5 @@ dependencies:
   - name: ansible-role-test
     src: https://github.com/bob2204/ansible-role-test.git
     scm: git
-    version: "master"
 
 
